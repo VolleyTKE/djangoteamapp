@@ -25,7 +25,7 @@ SECRET_KEY = '(^6s(x=z%67z=p35hc=!60#tc_skr44u*y^4am+&-3=qq6rw9!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fierce-citadel-99427.herokuapp.com']
 
 
 # Application definition
